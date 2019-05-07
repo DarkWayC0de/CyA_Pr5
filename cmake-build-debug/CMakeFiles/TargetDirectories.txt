@@ -1,0 +1,3 @@
+/home/darkwaycode/Escritorio/Cya/Pr5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/darkwaycode/Escritorio/Cya/Pr5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/darkwaycode/Escritorio/Cya/Pr5/cmake-build-debug/CMakeFiles/Pr5.dir

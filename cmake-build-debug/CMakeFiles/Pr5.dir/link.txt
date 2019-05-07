@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Pr5.dir/cadena.cpp.o CMakeFiles/Pr5.dir/Lenguaje.cpp.o CMakeFiles/Pr5.dir/main.cpp.o  -o Pr5 
